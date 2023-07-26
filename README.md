@@ -12,4 +12,4 @@ React + antd + ant-design/charts
 2. yarn start
 
 ## 特别说明
-本项目来源于《腾讯云Cloud Studio 实战训练营》的参数作品，该作品在腾讯云Cloud Studio 中运行无误。
+本项目来源于《腾讯云Cloud Studio 实战训练营》的参赛作品，该作品在腾讯云Cloud Studio 中运行无误。
